@@ -1,0 +1,14 @@
+Package: DatR
+Type: Package
+Title: Connects databases and retrieves information.
+Version: 0.1.3
+Author: Marc Clos
+Maintainer: Marc Clos <mclos.biodonostia@cicbiogune.es>
+Description: Starting from metabolite codes from both KEGG and HMDB databases, the functions look for related enzymes, genes and metabolic pathways. 
+            Then, another set of functions use the genes obtained to search in different databases (PubMed, OMIM, GEO and Entrez Nucleotide) to obtain 
+            information already published of the metabolites of interest in all these 4 databases.
+License: Private
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: RISmed, XML, rentrez

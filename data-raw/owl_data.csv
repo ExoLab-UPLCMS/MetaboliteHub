@@ -1,0 +1,364 @@
+OWL.Code;Class;Name;Comments;Family;HMDB;KEGG
+AA02;Amino acids;Glu;Glutamic Acid;AA;HMDB00148;C00025
+AA03;Amino acids;Gly;Glycine;AA;HMDB00123;C00037
+AA04;Amino acids;Ala;Alanine;AA;HMDB00161;C00041
+AA05;Amino acids;Ser;Serine;AA;HMDB00187;C00065
+AA06;Amino acids;Pro;Proline;AA;HMDB00162;C00148
+AA07;Amino acids;Val;Valine;AA;HMDB00883;C00183
+AA08;Amino acids;Thr;Threonine;AA;HMDB00167;C00188
+AA09;Amino acids;Tau;Taurine;AA;HMDB00251;C00245
+AA10;Amino acids;Ile;Isoleucine;AA;HMDB00172;C00407
+AA11;Amino acids;Leu;Leucine;AA;HMDB00687;C00123
+AA12;Amino acids;Asn;Asparagine;AA;HMDB00168;C00152
+AA13;Amino acids;Asp;Aspartic Acid;AA;HMDB00191;C00049
+AA14;Amino acids;Gln;Glutamine;AA;HMDB00641;C00064
+AA15;Amino acids;Lys;Lysine;AA;HMDB00182;C00047
+AA16;Amino acids;Met;Methionine;AA;HMDB00696;C00073
+AA17;Amino acids;His;Histidine;AA;HMDB00177;C00135
+AA18;Amino acids;Phe;Phenylalanine;AA;HMDB00159;C00079
+AA19;Amino acids;Arg;Arginine;AA;HMDB00517;C00062
+AA20;Amino acids;Tyr;Tyrosine;AA;HMDB00158;C00082
+AA21;Amino acids;Trp;Tryptophan;AA;HMDB00929;C00078
+AA22;Amino Acids and Derivatives;Sarcosine;Sarcosine;AA;HMDB00271;C00213
+AA23;Amino acid derivatives;Cys;Cystine;AA;HMDB00192;C00491
+AA25;Peptides;Gly-DL-Phe;;AA;HMDB28848;
+AA26;Sulfinic Acids and Derivatives;Hypotaurine;;AA;HMDB00965;C00519
+AA27;Amino Acids and Derivatives;Gamma-Aminobutyric acid;;AA;HMDB00112;C00334
+AA28;Amino Acids and Derivatives;DL-2-Aminoadipic acid;;AA;HMDB00510;C00956
+AA29;Amino Acids and Derivatives;Kynurenine;;AA;HMDB00684;C00328
+AA34;Amino Acids and Derivatives;L-Citrulline;;AA;HMDB00904;C00327
+AA36;Amino Acids and Derivatives;L-Homoserine;;AA;HMDB00719;C00263
+AA44;AA derivative;Cys-Cys;Cystine-double charge;AA;HMDB00192;C00491
+AA45;Amino Acids and Derivatives;Cystathionine;;AA;HMDB00099;C02291
+AA47;Amino Acids and Derivatives;1-Methyl-L-histidine  ;;AA;HMDB00001;C01152
+AA53;AA derivative;D(-)-2-Aminobutyric acid;;AA;HMDB00650;C02261
+AC02;Fatty esters;AC(8:0);L-Octanoylcarnitine;AC;HMDB00791;C02838
+AC04;Fatty esters;AC(10:0);Decanoylcarnitine ;AC;HMDB00651;
+AC05;Fatty esters;AC(12:0);Dodecanoylcarnitine;AC;HMDB02250;
+AC06;Fatty esters;AC(14:1n-x);;AC;;
+AC07;Fatty esters;AC(8:1n-x);;AC;;
+AC09;Fatty esters;AC(12:1n-x);;AC;;
+AC15;Fatty esters;AC(14:2n-x);;AC;;
+AC18;Fatty esters;AC(18:0);Stearoylcarnitine;AC;HMDB00848;
+BA03;Bile acids;CA;Cholic acid;BA;HMDB00619;C00695
+BA04;Bile acids;DCA;Deoxycholic acid;BA;HMDB00626;C04483
+BA05;Bile acids;CDCA;Chenodeoxycholic acid;BA;HMDB00518;C02528
+BA06_BA07;Bile acids;UDCA + HDCA;Ursodeoxycholic + Hyodeoxycholic acid;BA;HMDB00946;C07880
+BA08;Bile acids;LCA;Lithocholic acid;BA;HMDB00761;C03990
+BA09;Bile acids;TCA;Taurocholic acid;BA;HMDB00036;C05122
+BA10;Bile acids;TDCA;Taurodeoxycholic acid;BA;HMDB00896;C05463
+BA14;Bile acids;TLCA;Taurolithocholic acid;BA;HMDB00722;C02592
+BA15;Bile acids;GCA;Glycocholic acid;BA;HMDB00138;C01921
+BA16H;Bile acids;GCDCA;Glycochenodeoxycholic acid;BA;HMDB00637;C05466
+BA18;Bile acids;GDCA;Glycodeoxycholic acid;BA;HMDB00631;C05464
+Carb_04;Phenylacetic Acid Derivatives;Phenylacetic acid;;Carb Acid;HMDB00209;C07086
+Carb_06;Sugar Acids and Derivatives;NANA;N-Acetylneuraminic acid;Carb Acid;HMDB00230;C19910
+Carb_08;Carboxylic Acids and Derivatives;Suberic acid;;Carb Acid;HMDB00893;C08278
+Carb_14;Benzoic Acid and Derivatives;3-Hydroxyanthranilic acid;;Carb Acid;HMDB01476;C00632
+Carb_15;Pyridines and Derivatives;4-Pyridoxic acid;;Carb Acid;HMDB00017;C00847
+Carb_16;Hydroxy Acids and Derivatives;3-Hydroxyglutaric acid;;Carb Acid;HMDB00428;
+CCM_04;Sugar Acids and Derivatives;2-PG, 3-PG;2-phosphoglycerate / 3-phosphoglycerate;CHO;HMDB00362;
+CCM_05;Purine Nucleotides;ADP;Adenosine 5'-diphosphate;Nt;HMDB01341;C00008
+CCM_07;Purine Nucleotides;AMP;Adenosine 5'-monophosphate;Nt;HMDB00045;C00020
+CCM_18;Sugar Acids and Derivatives;6PG;6-Phosphogluconate;CHO;HMDB01316;C00345
+CCM_19;Carboxylic Acids and Derivatives;Suc;Succinate;Carb Acid;HMDB00254;C00042
+CCM_20;Carboxylic Acids and Derivatives;Cit;Citrate / iso-Citrate;Carb Acid;HMDB00094;C00158
+CCM_23;Carboxylic Acids and Derivatives;Mal;Malate;Carb Acid;HMDB00744;C00711
+CCM_24;Keto-Acids and Derivatives;Alpha-KG;Alpha-Ketoglutarate;Carb Acid;HMDB00208;C00026
+CCM_25;Fatty Acids and Conjugates;Fu;Fumaric acid;Carb Acid;HMDB00134;C00122
+CCM_32;Keto-Acids and Derivatives;Pyr;Pyruvate;CHO;HMDB00243;C00022
+CCM_34;Purine Nucleotides;NAD;Nicotinamide adenine dinucleotide;Redox;HMDB00902;C00003
+Cer_02;Sphingolipids;Cer(d18:1/16:0);;Cer;HMDB04949;C00195
+Cer_03;Sphingolipids;Cer(d18:1/20:0);;Cer;HMDB04951;C00195
+Cer_04;Sphingolipids;Cer(d18:1/21:0);;Cer;;
+Cer_05;Sphingolipids;Cer(d18:1/22:0);;Cer;HMDB04952;C00195
+Cer_07;Sphingolipids;Cer(d18:1/23:0);;Cer;HMDB00950;
+Cer_09;Sphingolipids;Cer(d18:1/24:0);;Cer;HMDB04956;C00195
+Cer_10_Cer_11;Sphingolipids;Cer(d18:1/24:1)+Cer(d18:2/24:0);;Cer;;
+Cer_12;Sphingolipids;Cer(42:3);;Cer;;
+Cer_13;Sphingolipids;Cer(d18:1/18:0);;Cer;HMDB04950;C00195
+Cer_15;Sphingolipids;Cer(d18:1/25:0);;Cer;HMDB04957;C00195
+ChoE_03;Sterols;ChoE(16:0);;ChoE;HMDB00885;C11251
+ChoE_05;Sterols;ChoE(17:0);;ChoE;;
+ChoE_06;Sterols;ChoE(18:0);;ChoE;HMDB10368;C02530
+ChoE_07;Sterols;ChoE(18:1);;ChoE;HMDB00918;C14641
+ChoE_08;Sterols;ChoE(18:2);;ChoE;HMDB00610;C15441
+ChoE_09;Sterols;ChoE(18:3);;ChoE;HMDB10370;C02530
+ChoE_10;Sterols;ChoE(20:2);;ChoE;HMDB06734;C02530
+ChoE_12;Sterols;ChoE(20:4);;ChoE;HMDB06726;C02530
+ChoE_13;Sterols;ChoE(20:5);;ChoE;HMDB06731;C02530
+ChoE_14;Sterols;ChoE(22:4);;ChoE;HMDB06729;C02530
+ChoE_15;Sterols;ChoE(22:5);;ChoE;HMDB10375;
+ChoE_17;Sterols;ChoE(22:6);;ChoE;HMDB06733;C02530
+CMH_01;Sphingolipids;CMH(d18:1/16:0);;CMH;HMDB04971;C01190
+CMH_02;Sphingolipids;CMH(d18:1/22:0);;CMH;HMDB04974;C01190
+CMH_03;Sphingolipids;CMH(d18:1/24:0);;CMH;HMDB04978;
+CMH_04;Sphingolipids;CMH(d18:1/24:1);;CMH;HMDB04975;C01190
+CMH_09;Sphingolipids;CMH(d18:1/23:0) ;;CMH;;
+CMH_OH_06;Sphingolipids;CMH(d18:1/24:1(2OH));;CMH;;
+CMH_OH_07;Sphingolipids;CMH(d18:1/25:0(2OH));;CMH;;
+DAPC03;Glycerophospholipids;PC(16:0/16:0);;PC;HMDB00564;C00157
+DAPC04;Glycerophospholipids;PC(32:1);PC(16:0/16:1) + PC(14:1/18:0) + PC(14:0/18:1);PC;;
+DAPC05;Glycerophospholipids;PC(14:0/18:2);;PC;HMDB07874;C00157
+DAPC06;Glycerophospholipids;PC(16:0/18:0);;PC;HMDB07970;C00157
+DAPC07;Glycerophospholipids;PC(16:0/18:1);;PC;HMDB07972;C00157
+DAPC08;Glycerophospholipids;PC(16:0/18:2);;PC;HMDB07973;C00157
+DAPC09;Glycerophospholipids;PC(14:0/20:4);;PC;HMDB07883;C00157
+DAPC11;Glycerophospholipids;PC(18:0/18:1);;PC;HMDB08038;C00157
+DAPC12;Glycerophospholipids;PC(18:0/18:2);;PC;HMDB08039;C00157
+DAPC13;Glycerophospholipids;PC(18:2/18:2);;PC;HMDB08138;C00157
+DAPC14;Glycerophospholipids;PC(16:0/20:4);;PC;HMDB07982;C00157
+DAPC15;Glycerophospholipids;PC(16:0/20:5);;PC;HMDB07984;C00157
+DAPC18;Glycerophospholipids;PC(18:0/20:3);;PC;HMDB08046;C00157
+DAPC19;Glycerophospholipids;PC(18:0/20:4);;PC;HMDB08048;C00157
+DAPC20;Glycerophospholipids;PC(38:5);PC(18:1/20:4) + PC(16:0/22:5);PC;;
+DAPC21;Glycerophospholipids;PC(38:5);PC(18:0/20:5) + PC(16:0/22:5);PC;;
+DAPC23;Glycerophospholipids;PC(18:2/20:4);;PC;HMDB08147;C00157
+DAPC24;Glycerophospholipids;PC(16:0/22:6);;PC;HMDB07991;C00157
+DAPC26;Glycerophospholipids;PC(18:0/22:4);;PC;HMDB08054;C00157
+DAPC27;Glycerophospholipids;PC(20:0/20:4);;PC;HMDB08279;C00157
+DAPC28;Glycerophospholipids;PC(40:5);;PC;;
+DAPC29;Glycerophospholipids;PC(18:0/22:5);;PC;HMDB08056;C00157
+DAPC30;Glycerophospholipids;PC(18:0/22:6);;PC;HMDB08057;C00157
+DAPC32;Glycerophospholipids;PC(18:1/22:6);;PC;HMDB08123;C00157
+DAPC34;Glycerophospholipids;PC(40:8);PC(20:4/20:4) + PC(18:2/22:6) + PC(18:0/22:8);PC;;
+DAPC38;Glycerophospholipids;PC(16:1/18:2);;PC;HMDB08006;C00157
+DAPC39_DAPC40;Glycerophospholipids;PC(34:3);;PC;;
+DAPC41_DAPC42;Glycerophospholipids;PC(36:3);;PC;;
+DAPC45;Glycerophospholipids;PC(31:0);;PC;;
+DAPC47;Glycerophospholipids;PC(30:0);PC(16:0/14:0) + PC(14:0/16:0);PC;;
+DAPE02;Glycerophospholipids;PE(16:0/18:1);;PE;HMDB08927;C00350
+DAPE03;Glycerophospholipids;PE(16:0/18:2);;PE;HMDB08928;C00350
+DAPE04;Glycerophospholipids;PC(16:0/17:0);;PC;;
+DAPE05;Glycerophospholipids;PC(33:1);PC(15:0/18:1) + PC(16:0/17:1);PC;;
+DAPE06;Glycerophospholipids;PC(15:0/18:2);Diacylglycerophosphocholine;PC;HMDB07940;C00157
+DAPE07;Glycerophospholipids;PE(18:1/18:2);;PE;HMDB09060;C00350
+DAPE08;Glycerophospholipids;PE(16:0/20:4);;PE;HMDB08937;C00350
+DAPE09;Glycerophospholipids;PE(18:2/18:2);;PE;HMDB09093;C00350
+DAPE10;Glycerophospholipids;PE(20:5/16:0);;PE;HMDB09451;C00350
+DAPE11;Glycerophospholipids;PC(17:0/18:1);;PC;;
+DAPE12;Glycerophospholipids;PC(16:0/19:1);;PC;;
+DAPE13;Glycerophospholipids;PC(17:1/18:1);;PC;;
+DAPE14;Glycerophospholipids;PC(17:0/18:2);;PC;;
+DAPE18;Glycerophospholipids;PE(18:0/20:4);;PE;HMDB09003;C00350
+DAPE20;Glycerophospholipids;PE(20:4/18:2);;PE;HMDB09390;C00350
+DAPE21;Glycerophospholipids;PE(16:0/22:6);;PE;HMDB08946;C00350
+DAPE23;Glycerophospholipids;PC(37:2);;PC;;
+DAPE27;Glycerophospholipids;PC(17:0/20:4);;PC;;
+DAPE29;Glycerophospholipids;PE(18:0/22:6);;PE;HMDB09012;C00350
+DAPE42;Glycerophospholipids;PE(18:0/18:1);;PE;;
+DAPI05;Glycerophospholipids;PI(18:0/20:3);;PI;HMDB09813;C00626
+DAPI06;Glycerophospholipids;PI(18:0/20:4);;PI;HMDB09815;C00626
+DAPI11;Glycerophospholipids;PI(18:0/22:6);;PI;HMDB09821;C00626
+DG02;Glycerolipids;DG(32:0);DG(16:0+16:0+0:0);DAG;;
+DG03;Glycerolipids;DG(32:1);DG(16:0+16:1+0:0)+ DG (14:0+18:1+0:0);DAG;;
+DG05;Glycerolipids;DG(34:0);DG(16:0+18:0+0:0);DAG;;
+DG06;Glycerolipids;DG(34:1);DG(16:0+18:1+0:0);DAG;;
+DG08;Glycerolipids;DG(36:2);DG(18:1+18:1+0:0);DAG;;
+DG09;Glycerolipids;DG(36:3);DG(18:1+18:2+0:0);DAG;;
+DG10;Glycerolipids;DG(36:4);DG(18:2+18:2+0:0);DAG;;
+DG12;Glycerolipids;DG(36:4);DG(16:0+20:4+0:0);DAG;;
+DG57;Glycerolipids;DG(36:1);DG(18:0+18:1+0:0) + DG(16:0+20:1+0:0);DAG;;
+Exog_01;Cinnamic Acid Derivatives;Caffeic acid;;Exog;HMDB01964;C01481
+Exog_06;Dihydrofurans;Ascorbic acid;;Exog;HMDB00044;C00072
+Exog_13;Benzyl Alcohols and Derivatives;Hydroxyphenyllactic acid;;Exog;HMDB00755;C03672
+FAA02;Fatty amides;16:0 amide;;FAA;HMDB12273;
+FAA04;Fatty amides;18:0 amide;;FAA;HMDB34146;C13846
+FAA08;Fatty amides;20:2n-x amide;;FAA;;
+FAA13;Fatty amides;23:1n-x amide;;FAA;;
+FAA14;Fatty amides;24:1n-x amide;;FAA;;
+FFA23;Non-esterified fatty acids;PUFA 20:4n-6;Arachidonic acid (AA);PUFA;HMDB01043;C00219
+FFA48;Non-esterified fatty acids;PUFA 16:3n-x;;PUFA;;
+FFAox34;Oxidized fatty acids;9,10-DiHOME;;FFAox;HMDB04704;C14828
+MAPC04;Glycerophospholipids;PC(15:0/0:0);;LPC;HMDB10381;C04230
+MAPC06;Glycerophospholipids;PC(16:0/0:0);;LPC;HMDB10382;C04230
+MAPC07;Glycerophospholipids;PC(0:0/16:0);;LPC;HMDB10382;C04230
+MAPC13;Glycerophospholipids;PC(0:0/18:0);;LPC;HMDB10384;C04230
+MAPC14;Glycerophospholipids;PC(18:0/0:0);;LPC;HMDB10384;C04230
+MAPC15;Glycerophospholipids;PC(0:0/18:1);;LPC;;
+MAPC16;Glycerophospholipids;PC(18:1/0:0);;LPC;;
+MAPC18;Glycerophospholipids;PC(0:0/18:2);;LPC;;
+MAPC20;Glycerophospholipids;PC(18:2/0:0);;LPC;;
+MAPC26;Glycerophospholipids;PC(20:0/0:0);;LPC;HMDB10390;C04230
+MAPC28;Glycerophospholipids;PC(20:1/0:0);;LPC;;
+MAPC31;Glycerophospholipids;PC(20:2/0:0);;LPC;;
+MAPC33;Glycerophospholipids;PC(0:0/20:3);;LPC;;
+MAPC35;Glycerophospholipids;PC(20:3/0:0);;LPC;;
+MAPC37;Glycerophospholipids;PC(0:0/20:4);;LPC;HMDB10395;C04230
+MAPC38;Glycerophospholipids;PC(20:4/0:0);;LPC;HMDB10395;C04230
+MAPC48;Glycerophospholipids;PC(0:0/22:6);;LPC;HMDB10404;C04230
+MAPC49;Glycerophospholipids;PC(22:6/0:0);;LPC;HMDB10404;C04230
+MAPC50;Glycerophospholipids;PC(17:0/0:0);;LPC;HMDB12108;C04230
+MAPC51;Glycerophospholipids;PC(0:0/17:0);;LPC;HMDB12108;C04230
+MAPC53;Glycerophospholipids;LPC(22:0);;LPC;;
+MAPE06;Glycerophospholipids;PE(14:0/0:0);;LPE;HMDB11500;
+MAPE07;Glycerophospholipids;PE(0:0/16:0);;LPE;HMDB11473;
+MAPE08;Glycerophospholipids;PE(16:0/0:0);;LPE;HMDB11503;
+MAPE09;Glycerophospholipids;PE(0:0/16:1);;LPE;HMDB11474;
+MAPE13;Glycerophospholipids;PE(0:0/18:0);;LPE;HMDB11129;
+MAPE14;Glycerophospholipids;PE(18:0/0:0);;LPE;HMDB11130;
+MAPE15;Glycerophospholipids;PE(0:0/18:1) ;;LPE;HMDB11476;
+MAPE16;Glycerophospholipids;PE(18:1/0:0) ;;LPE;;
+MAPE18;Glycerophospholipids;PE(0:0/18:2);;LPE;HMDB11477;
+MAPE19;Glycerophospholipids;PE(18:2/0:0) ;;LPE;;
+MAPE28;Glycerophospholipids;PE(0:0/20:3);;LPE;HMDB11485;
+MAPE29;Glycerophospholipids;PE(20:3/0:0);;LPE;HMDB11515;
+MAPE30;Glycerophospholipids;PE(0:0/20:4);;LPE;HMDB11487;
+MAPE31;Glycerophospholipids;PE(20:4/0:0);;LPE;HMDB11517;
+MAPE32;Glycerophospholipids;LPE(20:5);;LPE;;
+MAPE34;Glycerophospholipids;PE(0:0/22:4);;LPE;HMDB11493;
+MAPE36;Glycerophospholipids;PE(22:5/0:0);;LPE;;
+MAPE38;Glycerophospholipids;PE(22:5/0:0);;LPE;;
+MAPE40;Glycerophospholipids;PE(0:0/22:6);;LPE;HMDB11496;
+MAPE41;Glycerophospholipids;PE(22:6/0:0);;LPE;HMDB11526;
+MAPI02;Glycerophospholipids;LPI(16:0);;LPI;;
+MAPI04;Glycerophospholipids;LPI(18:0);;LPI;;
+MAPI12;Glycerophospholipids;LPI(20:4);;LPI;;
+MEMAPC01;Glycerophospholipids;PC(O-16:0/14:0);;PC;;
+MEMAPC03;Glycerophospholipids;PC(O-16:0/16:0);;PC;;
+MEMAPC04;Glycerophospholipids;PC(P-16:0/16:0);Plasmalogen;PC;;
+MEMAPC05;Glycerophospholipids;PC(O-34:0);PC(O-16:0/18:0) + PC(O-18:0/16:0);PC;;
+MEMAPC06;Glycerophospholipids;PC(O-34:1);PC(O-16:0/18:1) + PC(18:1e/16:0);PC;;
+MEMAPC07;Glycerophospholipids;PC(O-16:0/18:2);;PC;HMDB11151;
+MEMAPC08;Glycerophospholipids;PC(P-16:0/18:1);Plasmalogen;PC;;
+MEMAPC09;Glycerophospholipids;PC(P-16:0/18:2);Plasmalogen;PC;;
+MEMAPC11;Glycerophospholipids;PC(O-18:1/18:1);;PC;;
+MEMAPC12;Glycerophospholipids;PC(O-18:0/18:2);;PC;HMDB13418;
+MEMAPC13;Glycerophospholipids;PC(O-18:1/18:2);;PC;;
+MEMAPC17;Glycerophospholipids;PC(O-16:0/20:4);;PC;HMDB13407;
+MEMAPC18;Glycerophospholipids;PC(P-16:0/20:3);Plasmalogen;PC;;
+MEMAPC19;Glycerophospholipids;PC(P-16:0/20:4);Plasmalogen;PC;;
+MEMAPC22;Glycerophospholipids;PC(O-18:0/20:4);;PC;HMDB13420;
+MEMAPC24_MEMAPC25;Glycerophospholipids;PC(O-38:5);PC(O-18:1/20:4) + PC(O-18:1/20:4);PC;;
+MEMAPC27;Glycerophospholipids;PC(P-18:0/20:4);Plasmalogen;PC;;
+MEMAPC35;Glycerophospholipids;PC(O-22:1/20:4);;PC;;
+MEMAPC38;Glycerophospholipids;PC(O-24:1/20:4);;PC;;
+MEMAPE01;Glycerophospholipids;PE(O-16:0/18:1);;PE;;
+MEMAPE02;Glycerophospholipids;PE(P-16:0/18:2);Plasmalogen;PE;;
+MEMAPE05;Glycerophospholipids;PE(P-18:0/18:1);Plasmalogen;PE;;
+MEMAPE06;Glycerophospholipids;PE(P-16:0/20:4);Plasmalogen;PE;;
+MEMAPE08;Glycerophospholipids;PE(P-18:0/20:4);Plasmalogen;PE;;
+MEMAPE09;Glycerophospholipids;PE(P-18:1/20:4);Plasmalogen;PE;;
+MEMAPE11;Glycerophospholipids;PE(P-16:0/22:6);Plasmalogen;PE;;
+MEMAPE12;Glycerophospholipids;PE(18:1e/22:4);;PE;;
+MEMAPE15;Glycerophospholipids;PE(P-20:0/20:4);Plasmalogen;PE;;
+MEMAPE16;Glycerophospholipids;PE(P-18:0/22:5) + PE(P-20:1/20:4);Plasmalogen;PE;;
+MEMAPE17;Glycerophospholipids;PE(P-18:0/18:2);Plasmalogen;PE;;
+MEMAPE29;Glycerophospholipids;PE(18:1e/22:6);;PE;;
+MEPC02;Glycerophospholipids;PC(O-16:0/0:0);;LPC;;
+MEPC03;Glycerophospholipids;PC(P-16:0/0:0);Plasmalogen;LPC;;
+MEPC04;Glycerophospholipids;PC(O-18:0/0:0);;LPC;HMDB11149;C04317
+MEPC05;Glycerophospholipids;PC(O-18:1/0:0);;LPC;;
+MEPC07;Glycerophospholipids;PC(P-18:0/0:0);Plasmalogen;LPC;;
+MEPC10;Glycerophospholipids;PC(O-20:0/0:0);;LPC;;
+MEPC11;Glycerophospholipids;PC(O-20:1/0:0);;LPC;;
+MEPC17;Glycerophospholipids;PC(O-22:1/0:0);;LPC;;
+MEPC20;Glycerophospholipids;PC(O-24:1/0:0);;LPC;;
+MEPC21;Glycerophospholipids;PC(O-24:2/0:0);;LPC;;
+MEPE08;Glycerophospholipids;PE(O-16:0/0:0);;LPE;;
+MEPE09;Glycerophospholipids;PE(P-16:1/0:0);Plasmalogen;LPE;;
+MEPE12;Glycerophospholipids;PE(P-18:0/0:0);Plasmalogen;LPE;;
+MEPE18;Glycerophospholipids;PE(P-20:0/0:0);Plasmalogen;LPE;;
+MEPE19;Glycerophospholipids;PE(P-20:1/0:0);Plasmalogen;LPE;;
+MG02;Glycerolipids;MG(16:0/0:0/0:0);;MAG;HMDB11564;
+MG05;Glycerolipids;MG(18:1(9Z)/0:0/0:0);;MAG;HMDB11567;
+MG06;Glycerolipids;MG(18:2(9Z,12Z)/0:0/0:0);;MAG;HMDB11568;
+Misc_07;Fatty Alcohols;Sorbitol;;CHO;HMDB00247;C00794
+Nucl_01;Pyrimidine Nucleosides and Analogues;Cytidine;;Ns;HMDB00089;C00475
+Nucl_16;Purine Nucleosides and Analogues;Inosine;;Ns;HMDB00195;C00294
+Nucl_17;Purine Nucleosides and Analogues;Xanthosine;;Ns;HMDB00299;C01762
+Nucl_20;Pyrimidine Nucleotides;UDP-Glucose;;Nt;HMDB00286;C00029
+Nucl_25;Purine Nucleotides;cAMP;;Nt;HMDB00058;C00575
+Nucl_27;Diazines;Uracil;;;HMDB00300;C00106
+Nucl_28;Pyrimidine Nucleosides and Analogues;Uridine;;Ns;HMDB00296;C00299
+SphLip_02;Sphingolipids;SM(d18:0/14:0);;SM;HMDB12085;C00550
+SphLip_03;Sphingolipids;SM(d18:0/15:0);;SM;;
+SphLip_04;Sphingolipids;SM(d18:0/16:0);;SM;HMDB10168;C00550
+SphLip_05;Sphingolipids;SM(d18:0/18:0);;SM;HMDB12087;C00550
+SphLip_06;Sphingolipids;SM(d18:0/22:0);;SM;HMDB12091;C00550
+SphLip_07;Sphingolipids;SM(d18:1/12:0);;SM;HMDB12096;C00550
+SphLip_08;Sphingolipids;SM(32:1);SM(d16:1/16:0) + SM(d18:1/14:0);SM;;
+SphLip_09;Sphingolipids;SM(33:1);SM(d17:1/16:0) + SM(d18:1/15:0);SM;;
+SphLip_10;Sphingolipids;SM(d18:1/16:0);;SM;HMDB10169;C00550
+SphLip_11;Sphingolipids;SM(d18:2/16:0);;SM;;
+SphLip_12;Sphingolipids;SM(d18:1/17:0);;SM;;
+SphLip_13;Sphingolipids;SM(d18:1/18:0);;SM;HMDB01348;C00550
+SphLip_14;Sphingolipids;SM(36:2);SM(d18:1/18:1) + SM(d18:2/18:0);SM;;
+SphLip_16;Sphingolipids;SM(38:1);SM(d18:1/20:0) + SM(16:1/22:0);SM;;
+SphLip_17;Sphingolipids;SM(d18:2/20:0);;SM;;
+SphLip_19;Sphingolipids;SM(39:1);SM(d18:1/21:0) + SM(d17:1/22:0) + SM(d16:1/23:0) + SM(d19:1/20:0);SM;;
+SphLip_20;Sphingolipids;SM(d18:1/22:0);;SM;HMDB12103;C00550
+SphLip_21;Sphingolipids;SM(d16:1/24:1);;SM;HMDB11694;
+SphLip_22;Sphingolipids;SM(d18:2/22:0);;SM;;
+SphLip_23;Sphingolipids;SM(d18:1/23:0);;SM;HMDB12105;C00550
+SphLip_24;Sphingolipids;SM(d18:1/23:1);;SM;;
+SphLip_25;Sphingolipids;SM(d18:2/23:0);;SM;;
+SphLip_26_SphLip_27;Sphingolipids;SM(d18:1/24:1) + SM(d18:2/24:0);;SM;;
+SphLip_28;Sphingolipids;SM(42:3);SM(d18:2/24:1) + SM(d18:1/24:2);SM;;
+SphLip_29;Sphingolipids;SM(d18:2/14:0);;SM;;
+SphLip_30;Sphingolipids;SM(42:1);;SM;;
+SphLip_31;Sphingolipids;SM(d18:1/25:0);;SM;;
+SphLip_32;Sphingolipids;SM(43:1);;SM;;
+SphLip_33;Sphingolipids;SM(43:2);SM(d19:1/24:1);SM;;
+SphLip_34;Sphingolipids;SM(38:0);;SM;;
+SphLip_35;Sphingolipids;SM(31:1);;SM;;
+ST01;Sterols;Cortisol;Hydrocortisone;ST;HMDB00063;C00735
+ST02;Sterols;DHEAS;Dehydroepiandrosterone sulfate (DHEAS);ST;HMDB01032;C04555
+ST03;Sterols;Pregnenolone sulfate;;ST;HMDB00774;
+ST05;Sterols;isomer androsterone sulfate;;ST;;
+ST07;Sterols;isomer androsterone sulfate;;ST;;
+ST08;Sterols;androsterone sulfate + etiocholanolone sulfate;;ST;HMDB02759;C04555
+ST09;Sterols;isomer androsterone sulfate;;ST;;
+ST10;Sterols;isomer pregn-5-ene-3,20-diol sulfate;;ST;;
+TG05;Glycerolipids;TG(44:1);TG(14:0+18:1+12:0) + TG(16:0+16:1+12:0);TAG;;
+TG09;Glycerolipids;TG(46:0);TG(16:0+16:0+14:0);TAG;;
+TG16;Glycerolipids;TG(48:0);TG(16:0/16:0/16:0);TAG;HMDB05356;
+TG17;Glycerolipids;TG(48:1);TG(14:0+18:1+16:0) + TG(16:0+16:1+16:0);TAG;;
+TG173;Glycerolipids;TG(55:2);TG(18:1+18:1+19:0) + TG(18:0+18:1+19:1);TAG;;
+TG174;Glycerolipids;TG(55:3);TG(18:1+18:1+19:1) + TG(18:2+19:0+18:1);TAG;;
+TG175;Glycerolipids;TG(55:4);TG(18:1+19:1+18:2);TAG;;
+TG18;Glycerolipids;TG(48:2);TG(14:0+18:1+16:1) + TG(16:0+18:2+14:0);TAG;;
+TG22;Glycerolipids;TG(49:0);TG(16:0+17:0+16:0) + TG(18:0+17:0+14:0);TAG;;
+TG23;Glycerolipids;TG(49:1);TG(15:0+18:1+16:0);TAG;;
+TG24;Glycerolipids;TG(49:2);TG(15:0+18:2+16:0) + TG(18:1+16:1+15:0) + TG(18:1+14:0+17:1) + TG(16:0+18:2+15:0);TAG;;
+TG26;Glycerolipids;TG(50:0);TG(16:0+16:0+18:0);TAG;;
+TG27;Glycerolipids;TG(50:1);TG(16:0+18:1+16:0);TAG;;
+TG28;Glycerolipids;TG(50:2);TG(16:0+18:1+16:1) + TG(18:1+18:1+14:0) + TG(16:0+18:2+16:0);TAG;;
+TG29;Glycerolipids;TG(50:3);TG(16:1+18:1+16:1) +  TG(16:0+18:2+16:1);TAG;;
+TG30;Glycerolipids;TG(50:4);;TAG;;
+TG33;Glycerolipids;TG(51:1);TG(16:0+17:0+18:1);TAG;;
+TG34;Glycerolipids;TG(51:2);TG(16:0+17:1+18:1);TAG;;
+TG37;Glycerolipids;TG(52:0);TG(16:0+18:0+18:0);TAG;;
+TG38;Glycerolipids;TG(52:1);TG(16:0+18:1+18:0);TAG;;
+TG39;Glycerolipids;TG(52:2);TG(16:0+18:1+18:1);TAG;;
+TG40;Glycerolipids;TG(52:3);TG(16:0+18:1+18:2);TAG;;
+TG41;Glycerolipids;TG(52:4);TG(16:0+18:2+18:2);TAG;;
+TG44;Glycerolipids;TG(53:1);TG(18:0+18:1+17:0);TAG;;
+TG45;Glycerolipids;TG(53:2);TG(18:1+18:1+17:0);TAG;;
+TG46;Glycerolipids;TG(53:3);TG(18:2+18:1+17:0) + TG(18:1+18:1+17:1);TAG;;
+TG47;Glycerolipids;TG(54:0);TG(18:0/18:0/18:0);TAG;HMDB05393;C00422
+TG48;Glycerolipids;TG(54:1);TG(18:0+18:1+18:0);TAG;;
+TG49;Glycerolipids;TG(54:2);TG(18:0+18:1+18:1);TAG;;
+TG50;Glycerolipids;TG(54:3);TG(20:2+20:1+14:0) + TG(20:2+18:1+16:0) + TG(20:1+18:2+16:0) + TG(18:2+18:1+18:0);TAG;;
+TG51;Glycerolipids;TG(54:4);TG(18:2+18:1+18:1) + TG(18:2+18:2+18:0);TAG;;
+TG52;Glycerolipids;TG(54:5);TG(18:2+18:2+18:1);TAG;;
+TG54;Glycerolipids;TG(54:6);TG(18:2+18:3+18:1);TAG;;
+TG56;Glycerolipids;TG(54:7);TG(18:2+18:3+18:2);TAG;;
+TG59;Glycerolipids;TG(56:1);TG(22:0+18:1+16:0) + TG(24:0+16:1+16:0);TAG;;
+TG60;Glycerolipids;TG(56:2);TG(18:1+20:1+18:0);TAG;;
+TG61;Glycerolipids;TG(56:3);TG(18:1+20:1+18:1);TAG;;
+TG63;Glycerolipids;TG(56:5);TG(20:4+18:1+18:0);TAG;;
+TG64;Glycerolipids;TG(56:6);TG(22:5+18:1+16:0) + TG(20:4+18:1+18:1);TAG;;
+TG65;Glycerolipids;TG(56:7);TG(22:5+18:2+16:0) + TG(20:4+18:2+18:1);TAG;;
+TG66;Glycerolipids;TG(56:7);TG(22:6+18:1+16:0);TAG;;
+TG68;Glycerolipids;TG(56:8);TG(22:6+18:2+16:0);TAG;;
+TG69;Glycerolipids;TG(58:1);TG(24:0+18:1+16:0);TAG;;
+TG70;Glycerolipids;TG(58:2);TG(18:1+22:0+18:1);TAG;;
+TG71;Glycerolipids;TG(58:3);TG(22:1+18:1+18:1) + TG(22:1+18:2+18:0);TAG;;
+TG72;Glycerolipids;TG(58:4);TG(22:0+18:2+18:2);TAG;;
+TG76;Glycerolipids;TG(58:9);;TAG;;
+TG79;Glycerolipids;TG(60:1);TG(24:0+18:0+18:1);TAG;;
+TG81;Glycerolipids;TG(60:3);TG(24:0+18:1+18:2);TAG;;
+TG83;Glycerolipids;TG(53:4);TG(18:2+17:1+18:1);TAG;;
+Vit_02;Pteridines and Derivatives;Vitamin B2;Riboflavin;Vit;HMDB00244;C00255
+Vit_05;Alkylamines;Vitamin B5;Pantothenic acid;Vit;HMDB00210;C00864
