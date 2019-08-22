@@ -13,22 +13,25 @@
 #' @import XML
 #' @export
 hsumm<-function(x){
-  temp<-xmlToList(xmlParse(paste0("http://www.hmdb.ca/metabolites/", x,  ".xml")))
-  Accession=temp$accession
-  Name=temp$name
-  Formula=temp$chemical_formul
-  Smiles=temp$smile
-  Genes<-vector('list', length = length(temp$protein_associations))
-  for (i in 1:length(temp$protein_associations)){
-    Genes[i]<-temp$protein_associations[i]$protein$gene_name
+  temp <- xmlToList(xmlParse(paste0("http://www.hmdb.ca/metabolites/", x, ".xml")))
+  Accession = temp$accession
+  Name = temp$name
+  Formula = temp$chemical_formul
+  Smiles = temp$smile
+  Genes <- vector("list", length = length(teymp$protein_associations))
+  for (i in 1:length(temp$protein_associations)) {
+    Genes[i] <- temp$protein_associations[i]$protein$gene_name
   }
-  KEGG_ID=temp$kegg_id
-  Paths<-vector('list', length = length(temp$pathways))
-  if (length(temp$pathways)==1) {Paths=temp$pathways}
+  KEGG_ID = temp$kegg_id
+  Paths <- vector("list", length = length(temp$biological_properties$pathways))
+  if (length(temp$biological_properties$pathways) == 1) {
+    Paths = temp$biological_properties$pathways$pathway$name
+  }
   else {
-    for (a in 1:length(temp$pathways)){
-      Paths[a]<-temp$pathways[a]$pathway$name
+    for (a in 1:length(temp$biological_properties$pathways)) {
+      Paths[a] <- temp$biological_properties$pathways[a]$pathway$name
     }
   }
-  hmdb_data<-list('Acces'=Accession, 'Name'=Name, 'Formula'=Formula, 'SMILES'=Smiles, 'Genes'=unlist(Genes), 'Paths'=unlist(Paths))
+  hmdb_data <- list(Acces = Accession, Name = Name, Formula = Formula, 
+                    SMILES = Smiles, Genes = unlist(Genes), KEGG = KEGG_ID, Paths = unlist(Paths))
 }
