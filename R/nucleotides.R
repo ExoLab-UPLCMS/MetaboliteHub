@@ -7,7 +7,7 @@
 #' @import rentrez
 #' @export
 search_nucl<-function(x){
-  ids<-entrez_search("nucleotide", term=paste0(x, " AND Homo sapiens[porgn]"), retmax=100)$ids
+  ids<-entrez_search("nucleotide", term=paste0(x, " AND Homo sapiens[porgn]"))$ids
   accession<-sapply(ids, function(x){
     entrez_summary("nucleotide", x)$accessionversion
   })
