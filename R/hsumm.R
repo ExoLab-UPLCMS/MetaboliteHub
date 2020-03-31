@@ -11,14 +11,15 @@
 #' @return returns a data.frame of different data entries: Acces for accession nubmer, Name for the metabolite name, Formula for its formula, SMILES for
 #' the formula in SMILES form, Genes for the list of genes related to the metabolite and Paths for the metabolic pathways related to the metabolite.
 #' @import XML
+#' @import httr
 #' @export
 hsumm<-function(x){
-  temp <- xmlToList(xmlParse(paste0("https://hmdb.ca/metabolites/", x, ".xml")))
+  temp <- xmlToList(xmlParse(GET(paste0("https://hmdb.ca/metabolites/", x, ".xml"))))
   Accession = temp$accession
   Name = temp$name
   Formula = temp$chemical_formul
   Smiles = temp$smile
-  Genes <- vector("list", length = length(teymp$protein_associations))
+  Genes <- vector("list", length = length(temp$protein_associations))
   for (i in 1:length(temp$protein_associations)) {
     Genes[i] <- temp$protein_associations[i]$protein$gene_name
   }
