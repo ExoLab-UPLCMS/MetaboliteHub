@@ -5,9 +5,10 @@
 #' @param x is the HMDB coded metabolite of which we want the KEGG ID.
 #' @return returns the KEGG IDs of the metabolite of interest.
 #' @import XML
+#' @import httr
 #' @export
 hkeggid<-function(x){
-  temp<-xmlToList(xmlParse(paste0("http://www.hmdb.ca/metabolites/", x,  ".xml")))
+  temp<-xmlToList(xmlParse(GET(paste0("http://www.hmdb.ca/metabolites/", x,  ".xml"))))
   keggid<-temp$kegg_id
   return(keggid)
 }
