@@ -13,7 +13,7 @@
 #' @import XML
 #' @export
 hsumm<-function(x){
-  temp <- xmlToList(xmlParse(paste0("http://www.hmdb.ca/metabolites/", x, ".xml")))
+  temp <- xmlToList(xmlParse(paste0("https://hmdb.ca/metabolites/", x, ".xml")))
   Accession = temp$accession
   Name = temp$name
   Formula = temp$chemical_formul
